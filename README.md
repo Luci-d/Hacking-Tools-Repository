@@ -63,10 +63,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <td class="frame">RainbowCrack is a general propose implementation of Philippe Oechslin's faster time-memory trade-off technique.</td>
 </tr>
 <tr>
-<td class="frame"><a class="link" href="http://www.leidecker.info/projects/phrasendrescher/in dex.shtml"target="_blank">phrasen|drescher</a></td>
-<td class="frame">phrasen|drescher (p|d) is a modular and multi processing pass phrase cracking tool. It comes with a number of plugins but a simple plugin API allows an easy development of new plugins.</td>
-</tr>
-<tr>
 <td class="frame"><a class="link" href="http://www.lcpsoft.com/english/index.htm"target="_blank">LCP</a></td>
 <td class="frame">Main purpose of LCP program is user account passwords auditing and recovery in Windows NT/2000/XP/2003.</td>
 </tr>
@@ -122,10 +118,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <td class="frame">Dr.Morena is a tool to confirm the rule configuration of a Firewall. The configuration of a Firewall is done by combining more than one rule.</td>
 </tr>
 <tr>
-<td class="frame"><a class="link" href="http://packetfactory.openwall.net/projects/firewalk/in dex.html"target="_blank">Firewalk</a></td>
-<td class="frame">Firewalk is an active reconnaissance network security tool that attempts to determine what layer 4 protocols a  given IP forwarding device will pass. Firewalk  works  by sending out TCP or UDP packets with a TTL one greater than the targeted gateway.</td>
-</tr>
-<tr>
 <td class="frame"><a class="link" href="http://netcat.sourceforge.net/"target="_blank">Netcat</a></td>
 <td class="frame">Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. It is designed to be a reliable "back-end" tool that can be used directly or easily driven by other programs and scripts.</td>
 </tr>
@@ -162,9 +154,13 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <td class="frame">NSAT is a robust scanner which is designed for: Different kinds of wide-ranging scans, keeping stable for days. Scanning on multi-user boxes (local stealth and non-priority scanning options).</td>
 </tr>
 <tr>
+<td class="frame"><a class="link" href="http://spyse.com/"target="_blank">Spyse</a></td>
+<td class="frame">an OSINT search engine that scans the entire web, enriches data and collects all the info in its own DB for fast access. Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more.</td>
+</tr>
+<tr>
 <td class="frame"><a class="link" href="http://pbnj.sourceforge.net/"target="_blank">OutputPBNJ</a></td>
 <td class="frame">PBNJ is a suite of tools to monitor changes on a network over time. It does this by checking for changes on the target machine(s), which includes the details about the services running on them as well as the service state.</td>
-</tr>
+</tr> 
 <tr>
 <td class="frame"><a class="link" href="http://pbnj.sourceforge.net/"target="_blank">ScanPBNJ</a></td>
 <td class="frame">ScanPBNJ performs an Nmap scan and then stores the results in a database. The ScanPBNJ stores information about the machine that has been scanned. ScanPBNJ stores the IP Address, Operating System, Hostname and a localhost bit.</td>
@@ -218,10 +214,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <td class="frame">A good port scanner is just one of the basic tools anyone who is seriously interested in the internet needs. The BluesPortScan is, i think, the fastest scanner for 32Bit windows which you can found in the net.</td>
 </tr>
 <tr>
-<td class="frame"><a class="link" href="https://zmap.io/"target="_blank">ZMap</a></td>
-<td class="frame">ZMap is an open-source network scanner that enables researchers to easily perform Internet-wide network studies. With a single machine and a well provisioned network uplink, ZMap is capable of performing a complete scan of the IPv4 address space in under 45 minutes, approaching the theoretical limit of gigabit Ethernet.</td>
-</tr>
-<tr>
 <td class="frame"><a class="link" href="https://github.com/TheRook/subbrute"target="_blank">subdomain-bruteforcer</a></td>
 <td class="frame">Subdomain-bruteforcer is a multi-threaded python tool for enumerating subdomains from a dictionary file. Particularily useful for finding admin panels or other dodgy web practices.</td>
 </tr>
@@ -263,10 +255,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <tr>
 <td class="frame"><a class="link" href="http://www.netresec.com/?page=RawCap"target="_blank">RawCap</a></td>
 <td class="frame">RawCap is a free command line network sniffer for Windows that uses raw sockets.</td>
-</tr>
-<tr>
-<td class="frame"><a class="link" href="http://www.immunitysec.com/resources-freesoftware.shtml"target="_blank">Spike proxy</a></td>
-<td class="frame">Not all web applications are built in the same ways, and hence, many must be analyzed individually. SPIKE Proxy is a professional-grade tool for looking for application-level vulnerabilities in web applications.</td>
 </tr>
 <tr>
 <td class="frame"><a class="link" href="http://www.tcpdump.org/"target="_blank">Tcpdump</a></td>
@@ -314,10 +302,6 @@ If you have suggestions or links to tools/scripts to submit, please do, you can 
 <tr>
 <td class="frame"><a class="link" href="http://www.unixwiz.net/tools/nbtscan.html#download"target="_blank">nbtscan</a></td>
 <td class="frame">This tool that scans for open NETBIOS nameservers on a local or remote TCP/IP network, and this is a first step in finding of open shares.</td>
-</tr>
-<tr>
-<td class="frame"><a class="link" href="http://dev.zenoss.org/svn/trunk/inst/externallibs/"target="_blank">wmi client</a></td>
-<td class="frame">This DCOM/WMI client implementation is based on Samba4 sources. It uses RPC/DCOM mechanisms to interact with WMI services on Windows 2000/XP/2003 machines.</td>
 </tr>
 <tr>
 <td class="frame"><a class="link" href="http://www.gnucitizen.org/blog/new-version-of-dnsmap-out/"target="_blank">Dnsmap</a></td>
@@ -666,10 +650,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 <th class="gray"></th>
 </tr>
 <tr>
-<td class="frame"><a class="link" href="http://www.oracle.com/us/products/database/berkele y-db/index.html"target="_blank">Berkeley DB</a></td>
-<td class="frame">Oracle Berkeley DB is a family of open source, embeddable databases that allows developers to incorporate within their applications a fast, scalable, transactional database engine with industrial grade reliability and availability.</td>
-</tr>
- <tr>
 <td class="frame"><a class="link" href="http://www.dbsoftlab.com/database-editors/database-browser/overview.html"target="_blank">Database browser</a></td>
 <td class="frame">Database browser is an universal table editor. This easy to use tool allows user to connect to any database and browse or modify data,run sql scripts, export and print data.</td>
 </tr>
@@ -741,10 +721,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 <td class="frame">Porkbind is a multi-threaded nameserver scanner that can recursively query nameservers of subdomains for version strings. (i.e. sub.host.dom's nameservers then host.dom's nameservers)</td>
 </tr>
 <tr>
-<td class="frame"><a class="link" href="http://www.immunitysec.com/products-canvas.shtml"target="_blank">Canvas</a></td>
-<td class="frame">Immunity's CANVAS makes available hundreds of exploits, an automated exploitation system, and a comprehensive, reliable exploit development framework to penetration testers and security professionals worldwide.</td>
-</tr>
-<tr>
 <td class="frame"><a class="link" href="http://www.social-engineer.org/framework/Computer_Based_Social_Engineering_Tools:_Social_Engineer_Toolkit_(SET)"target="_blank">Social-Engineer Toolkit (SET)</a></td>
 <td class="frame">The Social-Engineer Toolkit (SET) is specifically designed to perform advanced attacks against the human element. SET was designed to be released with the http://www.social-engineer.org launch and has quickly became a standard tool in a penetration testers arsenal.</td>
 </tr>
@@ -771,10 +747,6 @@ It implements attacks like Bluebug, BlueSnarf, BlueSnarf++, BlueSmack, has featu
 <tr>
 <td class="frame"><a class="link" href="http://www.microsoft.com/en-us/download/details.aspx?id=19968"target="_blank">CAT.NET</a></td>
 <td class="frame">CAT.NET is a binary code analysis tool that helps identify common variants of certain prevailing vulnerabilities that can give rise to common attack vectors such as Cross-Site Scripting (XSS), SQL Injection and XPath Injection.</td>
-</tr>
-<tr>
-<td class="frame"><a class="link" href="http://peachfuzzer.com/"target="_blank">Peach Fuzzer</a></td>
-<td class="frame">Peach is a SmartFuzzer that is capable of performing both generation and mutation based fuzzing. Peach requires the creation of PeachPit files that define the structure, type information, and relationships in the data to be fuzzed.</td>
 </tr>
 <tr>
 <td class="frame"><a class="link" href="http://www.gfi.com/products-and-solutions/network-security-solutions/gfi-languard"target="_blank">GFI LanGuard</a></td>
